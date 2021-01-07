@@ -4,7 +4,4 @@ git stash :储存暂存区的代码
  
     更新代码：git pull
 
-    解冻：
-    解除stash : git stash pop
-
-    推送：git push 
+   
