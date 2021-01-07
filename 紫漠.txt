@@ -11,4 +11,6 @@ git stash :储存暂存区的代码
     切换分支：git checkout 分支名
     删除分支：git branch -d 分支名
 
+    将代码提交到开发分支：git push -u origin 开发分支名
+
    
